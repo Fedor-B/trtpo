@@ -1,5 +1,5 @@
 # trtpo
-SRS - https://github.com/ViachaslauS/trtpo/blob/master/SRS.md
+[SRS](https://github.com/ViachaslauS/trtpo/blob/master/SRS.md)
 
 Диаграммы:
 1) [Use case ](https://github.com/ViachaslauS/trtpo/blob/master/UseCase%20Diagram1.png), [Sequence](https://github.com/ViachaslauS/trtpo/blob/master/Sequence%20Diagram1.png)
