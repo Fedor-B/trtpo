@@ -1,7 +1,7 @@
 # Test results
 
 
-| в„– | Purpose/name | Action | Expected result | Real result | Mark | 
+| № | Purpose/name | Action | Expected result | Real result | Mark | 
 | :------: | :------: | :------: | :------: | :------: | :------: |
 | 1 | Add film to library | Enter name, genre, description for film. Select image for film | Saving data about film in file, film show in the catalog | Exit to the menu where the created item is shown | Success |
 | 2 | Login for editing | Enter login and password | Opening the application menu with advanced functionality | Opening the application menu with advanced functionality | Success |
