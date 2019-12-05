@@ -38,7 +38,7 @@ Must check other requirements:
 Manual testing must be used to check all test aspects. 
 
 ## <a name="par6">6. Presentation of results</a>
-Link to test results [Test]().
+Link to test results [Test](https://github.com/ViachaslauS/trtpo/blob/master/Test/Test%20Conclusion.md).
 
 ## <a name="par7">7. Conclusions</a>
 This test plan allows you to test the main functionality of the application. Successful completion of all tests does not guarantee 
